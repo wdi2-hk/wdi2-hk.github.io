@@ -1,4 +1,4 @@
-section {
+main section {
   padding-top: 2em;
 }
 
@@ -35,9 +35,10 @@ h1 {
 }
 
 .wdi-logo {
+  overflow: hidden;
   position: absolute;
   top: 15%;
-  width: 100%;
+  width: 98%;
   height: 100%;
   text-align: center;
 }
@@ -84,4 +85,20 @@ h1 {
 
 .banner-name p {
   font-size: 1.3em;
+}
+
+.join {
+  padding-bottom: 3em;
+}
+
+footer {
+  padding: 1em;
+  font-family: 'News';
+  background: #333333;
+}
+
+footer * {
+  color: white;
+  margin: 0;
+  padding: 0;
 }
