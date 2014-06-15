@@ -1,3 +1,7 @@
+section {
+  padding-top: 2em;
+}
+
 @font-face {
   font-family: 'News';
   src: url('/fonts/news-706-bt.ttf');
@@ -10,8 +14,8 @@
 
 p {
   word-wrap: break-word;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 h1 {
@@ -42,15 +46,20 @@ h1 {
   width: 35%;
 }
 
-.students h2 {
+.students h2, .instructors h2 {
   margin-top: 15px;
   margin-bottom: 0;
   font-family: 'Pfd';
   font-size: 1.5em;
 }
 
-.students .desc {
+.students .desc, .instructors .desc, .tech .desc {
   font-family: 'News'
+}
+
+.tech .desc {
+  padding: 0;
+  bottom: 0;
 }
 
 .profile-pic {
