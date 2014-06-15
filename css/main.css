@@ -1,3 +1,7 @@
+.hero {
+  position: relative;
+}
+
 .textured {
   background: url("/img/backgroundtexture.png");
 }
@@ -8,9 +12,14 @@
 
 .wdi-logo {
   position: absolute;
-  top: 50%;
-  left: 0;
-  right: 0;
+  top: 15%;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+#wdi-logo {
+  width: 35%;
 }
 
 .profile-pic {
