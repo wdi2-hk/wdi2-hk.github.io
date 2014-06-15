@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="115px" height="126px" viewBox="0 0 115 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>rails-icon</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="960-Grid" sketch:type="MSArtboardGroup" transform="translate(-356.000000, -2651.000000)">
+            <g id="technology" sketch:type="MSLayerGroup" transform="translate(41.000000, 2549.000000)">
+                <g id="icons" transform="translate(0.000000, 99.000000)" sketch:type="MSShapeGroup">
+                    <g id="rails-icon" transform="translate(322.000000, 11.000000)">
+                        <path d="M95,24 C89.9999998,21.0000004 50,0 50,0 C50,0 12.0000001,20.0000002 6,24 C3.1938896e-10,28 0,31 0,31 L2.04209912e-15,64.3300781 L2.87964097e-15,78 C2.87964097e-15,78 2.87964097e-15,82 8,87 C16,92 50,110 50,110 C50,110 87.0000004,90.0000008 94,86 C101,82 100,79 100,79 L100,31 C100,31 100,27 95,24 Z" id="background" stroke="#912B2D" stroke-width="7" fill="#EA474A"></path>
+                        <g id="rails" transform="translate(9.000000, 45.000000)" stroke="#912B2D" stroke-width="5" stroke-linecap="round">
+                            <path d="M0.5,5.5 L81.5555344,5.5" id="Line"></path>
+                            <path d="M0.5,31.5 L81.5555344,31.5" id="Line-copy"></path>
+                            <path d="M5.5,0.5 L5.5,36.5138855" id="Line"></path>
+                            <path d="M23.5,0.5 L23.5,36.5138855" id="Line-copy"></path>
+                            <path d="M40.5,0.5 L40.5,36.5138855" id="Line-copy-2"></path>
+                            <path d="M58.5,0.5 L58.5,36.5138855" id="Line-copy-3"></path>
+                            <path d="M76.5,0.5 L76.5,36.5138855" id="Line-copy-4"></path>
+                        </g>
+                        <g id="ruby" transform="translate(20.000000, 19.000000)">
+                            <path d="M22,0 L37,0 C37,0 58,5 60,14 C62,23 33,51 30,51 C27,51.0000004 -4.64024097e-07,23 0,14 C8.01010677e-07,5 22,0 22,0 Z" id="Path-23" fill="#FFFFFF"></path>
+                            <path d="M19,18 L23,4 C23,4 5,10 4,14 L19,18 Z" id="Path-24" fill="#EA474A"></path>
+                            <path d="M52,18 L56,4 C56,4 38,10 37,14 L52,18 Z" id="Path-24-copy" fill="#EA474A" transform="translate(46.500000, 11.000000) scale(-1, 1) translate(-46.500000, -11.000000) "></path>
+                            <path d="M19,18 L41,18 L30,47 L19,18 Z" id="Path-26" fill="#EA474A"></path>
+                            <path d="M19,18 L30,47 C30,47 2,21 4,14 L19,18 Z" id="Path-27" fill="#912B2D"></path>
+                            <path d="M45,18 L56,47 C56,47 28,21 30,14 L45,18 Z" id="Path-27-copy" fill="#912B2D" transform="translate(43.000000, 30.500000) scale(-1, 1) translate(-43.000000, -30.500000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
