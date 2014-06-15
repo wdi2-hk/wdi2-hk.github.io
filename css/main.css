@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'News';
+  src: url('/fonts/news-706-bt.ttf');
+}
+
+@font-face {
+  font-family: 'Pfd';
+  src: url('/fonts/pfdintextcomppro-bold.ttf');
+}
+
 .hero {
   position: relative;
 }
