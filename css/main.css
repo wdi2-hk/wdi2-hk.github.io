@@ -43,6 +43,8 @@ h1 {
 }
 
 .students h2 {
+  margin-top: 15px;
+  margin-bottom: 0;
   font-family: 'Pfd';
   font-size: 1.5em;
 }
