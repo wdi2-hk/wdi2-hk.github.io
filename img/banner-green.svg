@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="195px" height="42px" viewBox="0 0 195 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>banner-green</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient x1="42.9649203%" y1="50%" x2="85.8455882%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#068210" offset="0%"></stop>
+            <stop stop-color="#67CA1F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.2795252%" y1="50%" x2="4.90733225%" y2="46.2667406%" id="linearGradient-2">
+            <stop stop-color="#05A010" offset="0%"></stop>
+            <stop stop-color="#6CCE20" offset="48.8843149%"></stop>
+            <stop stop-color="#04A017" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="960-Grid" sketch:type="MSArtboardGroup" transform="translate(-92.000000, -2030.000000)" stroke="#068210" stroke-width="2">
+            <g id="instructors" sketch:type="MSLayerGroup" transform="translate(-2.000000, 1732.000000)">
+                <g id="charles" transform="translate(85.000000, 175.000000)" sketch:type="MSShapeGroup">
+                    <g id="banner" transform="translate(9.000000, 123.000000)">
+                        <path d="M177.177083,12.2786885 C163.257538,12.8571208 136,5 136,5 L136,32.295082 C136,32.295082 165.5,38.3606554 174.104167,39.5737705 C182.708333,40.7868852 195,42 195,42 C195,42 184.24677,30.4754098 184.552083,25.9262295 C184.857397,21.3770492 193.770833,9.85245902 193.770833,9.85245902 C193.770833,9.85245902 182.719343,12.0483777 177.177083,12.2786885 Z" id="banner-right" fill="url(#linearGradient-1)"></path>
+                        <path d="M34.8958333,13.0819672 C23.0996083,13.6447662 0,6 0,6 L0,32.557377 C0,32.557377 25.0000002,38.459016 32.2916667,39.6393443 C39.5833333,40.8196721 50,42 50,42 C50,42 40.8870935,30.7868852 41.1458333,26.3606557 C41.4045733,21.9344262 48.9583333,10.7213115 48.9583333,10.7213115 C48.9583333,10.7213115 39.5926639,12.857881 34.8958333,13.0819672 Z" id="banner-left" fill="url(#linearGradient-1)" transform="translate(25.000000, 24.000000) scale(-1, 1) translate(-25.000000, -24.000000) "></path>
+                        <path d="M94.5445026,0 C40.5235602,-2.43490608e-06 30,6.4516129 30,6.4516129 L30,40 C30,40 59.9123023,34.1935499 94.5445026,34.1935484 C129.176703,34.1935468 164,40 164,40 L164,6.4516129 C164,6.4516129 148.565445,2.46652821e-06 94.5445026,0 Z" fill="url(#linearGradient-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
