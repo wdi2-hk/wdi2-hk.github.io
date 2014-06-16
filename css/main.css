@@ -64,9 +64,16 @@ h1 {
   font-family: 'News'
 }
 
-.tech .desc {
-  padding: 0;
+.tech-desc {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  left: 0;
   bottom: 0;
+}
+
+.tech .columns {
+  height: 182px;
 }
 
 .profile-pic {
